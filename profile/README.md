@@ -1,7 +1,7 @@
 <img align="left" src="./QuintschafTransparent.png" width="400" />
 
 # Hi there 👋
-> We're Quintschaf, a small Software forge based in Germany.
+> We're FiveSheep, a small Software forge based in Germany.
 
 <br>
 
