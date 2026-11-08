@@ -27,12 +27,6 @@ We use these tools every day to develop our apps, and we hope they can be of use
 >
 > [GitHub](https://github.com/FiveSheepCo/FoundationPlus)
 
-### SwiftUIElements
-> SwiftUIElements extends `SwiftUI` with useful views and extensions.  
-> It adds compatibility modifiers, better binding ergonomics, easy programmatic navigation and a lot more.
->
-> [GitHub](https://github.com/FiveSheepCo/SwiftUIElements)
-
 ### SwiftDataSync
 > SwiftDataSync is the missing programmable sync layer for `SwiftData`.  
 > It enables native, granular and ergonomic iCloud sync for your data models.
@@ -50,6 +44,18 @@ We use these tools every day to develop our apps, and we hope they can be of use
 > It abstracts away a lot of MapKit complexity and quirks, and "just works".
 >
 > [GitHub](https://github.com/FiveSheepCo/MapItemPicker)
+
+### FuzzySearch
+> FuzzySearch provides lightning-fast fuzzy string matching.  
+> It's fully async and even supports localized strings, arrays, and custom objects.
+>
+> [GitHub](https://github.com/FiveSheepCo/FuzzySearch)
+
+### SwiftUIElements
+> SwiftUIElements extends `SwiftUI` with useful views and extensions.  
+> It adds compatibility modifiers, better binding ergonomics, easy programmatic navigation and a lot more.
+>
+> [GitHub](https://github.com/FiveSheepCo/SwiftUIElements)
 
 ### Others
 > We have many other open source projects that didn't make it onto the featured list.  
