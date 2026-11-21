@@ -14,7 +14,7 @@ We're **FiveSheep** 🐑, and we craft unique iOS apps!
 > Chatalyzer is a one-of-a-kind chat analysis tool.  
 > It creates awesome shareable fact cards from your chats, while keeping your data private!
 >
-> [App Store](https://apps.apple.com/app/id1614068067)
+> [App Store](https://apps.apple.com/app/id1614068067) | [Play Store](https://play.google.com/store/apps/details?id=co.fivesheep.chatalyzer)
 
 ## 👩‍💻 Open Source
 
